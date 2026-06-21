@@ -18,6 +18,7 @@ public:
             }
             else{
                 pro= max(pro, prices[i]-mini);
+                
             }
         }
         return pro;
