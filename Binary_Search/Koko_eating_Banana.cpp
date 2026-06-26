@@ -12,6 +12,7 @@ public:
             if(hours<=h)e=mid;
             else s= mid+1;
         }
+        
         return s;
     }
 };
